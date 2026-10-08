@@ -1,0 +1,32 @@
+name: ChronosNet Otomatik Haber Guncelleme
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *' # Günde 2 kez (06:00 ve 18:00 UTC) otomatik çalışır
+  workflow_dispatch: # Dilediğiniz an elle çalıştırma butonu
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Indir
+        uses: actions/checkout@v4
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Haberleri Cek ve Guncelle
+        run: python3 scripts/fetch_news.py
+
+      - name: Degisiklikleri Gonder
+        run: |
+          git config --local user.email "bot@chronosnet.org"
+          git config --local user.name "ChronosNet Bot"
+          git add dossiers.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 ChronosNet: Güncel haberler otomatik güncellendi" && git push)
+          

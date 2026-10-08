@@ -1,0 +1,29 @@
+[
+  {
+    "id": "nordstream-2022",
+    "category": "jeopolitik",
+    "date": "2022-09-26",
+    "views": 64200,
+    "popularity": 98,
+    "factStatus": "disputed",
+    "title": {
+      "tr": "Kuzey Akım Doğalgaz Boru Hattı Patlamaları",
+      "en": "Nord Stream Pipeline Sabotage"
+    },
+    "summary": {
+      "tr": "Baltık Denizi'nin 80 metre derinliğinde meydana gelen gizemli patlamalarla gaz boru hatları devre dışı bırakıldı.",
+      "en": "Mysterious undersea detonations at 80m depth disabled major conduits connecting Russia to Europe."
+    },
+    "timeline": [
+      { "date": "2022-09-26 02:03", "desc": "Sismik sensörler patlama kaydetti." }
+    ],
+    "background": "Avrupa ve Rusya arasındaki stratejik enerji jeopolitiğinin merkezindeki kritik altyapı sabote edildi.",
+    "related": "• Baltık Denizi Denizaltı Kablo Kesintileri\n• Küresel Enerji Krizleri",
+    "theories": [
+      {
+        "claim": "Gizli Dalgıç Operasyonu",
+        "verdict": "Resmi soruşturmalar devam etmekte, net bir fail açıklanmamıştır."
+      }
+    ]
+  }
+]

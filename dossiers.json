@@ -1,5 +1,155 @@
 [
   {
+    "id": "event-2026-10-23-2df88fd0",
+    "category": "jeopolitik",
+    "date": "2026-10-23",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "en": "Ukraine says Starlink still restricted after Trump says limits lifted"
+    },
+    "summary": {
+      "tr": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+      "en": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-23 18:26",
+        "desc": "Uluslararası ajanslar doğruladı: Ukraine says Starlink still restricted after Trump says limits lifted"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-10-23-26cb2e26",
+    "category": "jeopolitik",
+    "date": "2026-10-23",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "en": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'"
+    },
+    "summary": {
+      "tr": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "en": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-23 18:26",
+        "desc": "Uluslararası ajanslar doğruladı: White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-10-23-9ee0530d",
+    "category": "jeopolitik",
+    "date": "2026-10-23",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "en": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead"
+    },
+    "summary": {
+      "tr": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "en": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-23 18:26",
+        "desc": "Uluslararası ajanslar doğruladı: Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-10-23-fa3f69d2",
+    "category": "jeopolitik",
+    "date": "2026-10-23",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "en": "Seven shot dead by gunmen at church funeral in Jordan, officials say"
+    },
+    "summary": {
+      "tr": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "en": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-23 18:26",
+        "desc": "Uluslararası ajanslar doğruladı: Seven shot dead by gunmen at church funeral in Jordan, officials say"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-10-23-08210fa6",
+    "category": "jeopolitik",
+    "date": "2026-10-23",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "en": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says"
+    },
+    "summary": {
+      "tr": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "en": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-23 18:26",
+        "desc": "Uluslararası ajanslar doğruladı: Deadly shooting near Paris investigated as 'crime of terrorism', minister says"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
     "id": "event-2026-10-23-524d05fa",
     "category": "bilim",
     "date": "2026-10-23",
@@ -1342,156 +1492,6 @@
     ],
     "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
     "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-18-198fa1c8",
-    "category": "bilim",
-    "date": "2026-10-18",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Turning the tides: Could hidden sea power energise our coastal towns?",
-      "en": "Turning the tides: Could hidden sea power energise our coastal towns?"
-    },
-    "summary": {
-      "tr": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
-      "en": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-18 18:19",
-        "desc": "Uluslararası ajanslar doğruladı: Turning the tides: Could hidden sea power energise our coastal towns?"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-18-11de86a7",
-    "category": "bilim",
-    "date": "2026-10-18",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "How to see the Orionid meteor shower",
-      "en": "How to see the Orionid meteor shower"
-    },
-    "summary": {
-      "tr": "One of the best-known meteor showers peaks this week and will remain active until 7 November.",
-      "en": "One of the best-known meteor showers peaks this week and will remain active until 7 November."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-18 18:19",
-        "desc": "Uluslararası ajanslar doğruladı: How to see the Orionid meteor shower"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-18-3411d103",
-    "category": "bilim",
-    "date": "2026-10-18",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Fuel leak spreads more than two miles along River Taff",
-      "en": "Fuel leak spreads more than two miles along River Taff"
-    },
-    "summary": {
-      "tr": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
-      "en": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-18 18:19",
-        "desc": "Uluslararası ajanslar doğruladı: Fuel leak spreads more than two miles along River Taff"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-18-82623a4e",
-    "category": "jeopolitik",
-    "date": "2026-10-18",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "en": "Oil facilities hit in deadly overnight attack on St Petersburg"
-    },
-    "summary": {
-      "tr": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "en": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-18 18:19",
-        "desc": "Uluslararası ajanslar doğruladı: Oil facilities hit in deadly overnight attack on St Petersburg"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-18-e89ecfb6",
-    "category": "jeopolitik",
-    "date": "2026-10-18",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "en": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting"
-    },
-    "summary": {
-      "tr": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "en": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-18 18:19",
-        "desc": "Uluslararası ajanslar doğruladı: Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
     "theories": [
       {
         "claim": "Olayın Görünmeyen Stratejik Nedenleri",

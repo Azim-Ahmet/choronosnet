@@ -1,5 +1,155 @@
 [
   {
+    "id": "event-2026-10-25-52f8a48e",
+    "category": "bilim",
+    "date": "2026-10-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
+      "en": "Man killed by falling tree as Storm Boelo brings more severe weather to UK"
+    },
+    "summary": {
+      "tr": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+      "en": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-25 18:21",
+        "desc": "Uluslararası ajanslar doğruladı: Man killed by falling tree as Storm Boelo brings more severe weather to UK"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-10-25-bdf4e859",
+    "category": "jeopolitik",
+    "date": "2026-10-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "en": "Suspect in deadly Paris suburb shooting sent for psychiatric observation"
+    },
+    "summary": {
+      "tr": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "en": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-25 18:21",
+        "desc": "Uluslararası ajanslar doğruladı: Suspect in deadly Paris suburb shooting sent for psychiatric observation"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-10-25-6900c2fc",
+    "category": "jeopolitik",
+    "date": "2026-10-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Early reports suggest record high turnout in Serbia elections",
+      "en": "Early reports suggest record high turnout in Serbia elections"
+    },
+    "summary": {
+      "tr": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "en": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-25 18:21",
+        "desc": "Uluslararası ajanslar doğruladı: Early reports suggest record high turnout in Serbia elections"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-10-25-478fe98d",
+    "category": "jeopolitik",
+    "date": "2026-10-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Venezuelan opposition leader María Machado returns after months in exile",
+      "en": "Venezuelan opposition leader María Machado returns after months in exile"
+    },
+    "summary": {
+      "tr": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "en": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-25 18:21",
+        "desc": "Uluslararası ajanslar doğruladı: Venezuelan opposition leader María Machado returns after months in exile"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-10-25-d5bf3493",
+    "category": "jeopolitik",
+    "date": "2026-10-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "en": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored"
+    },
+    "summary": {
+      "tr": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "en": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-25 18:21",
+        "desc": "Uluslararası ajanslar doğruladı: Musk says SpaceX restricted Ukraine's Starlink connection as service restored"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
     "id": "event-2026-10-25-f36c6e70",
     "category": "bilim",
     "date": "2026-10-25",
@@ -1342,156 +1492,6 @@
     ],
     "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
     "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-20-92a92166",
-    "category": "jeopolitik",
-    "date": "2026-10-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "en": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?"
-    },
-    "summary": {
-      "tr": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-      "en": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-20 18:28",
-        "desc": "Uluslararası ajanslar doğruladı: North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-20-0e9cfda6",
-    "category": "jeopolitik",
-    "date": "2026-10-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "en": "'Great result for Canada', says Carney as Alberta votes to reject separatism"
-    },
-    "summary": {
-      "tr": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-      "en": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-20 18:28",
-        "desc": "Uluslararası ajanslar doğruladı: 'Great result for Canada', says Carney as Alberta votes to reject separatism"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-20-d75e0ff3",
-    "category": "jeopolitik",
-    "date": "2026-10-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "en": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say"
-    },
-    "summary": {
-      "tr": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "en": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-20 18:28",
-        "desc": "Uluslararası ajanslar doğruladı: Sudan army drones hit mourners and fuel market killing more than 300 people, sources say"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-20-a7cf294d",
-    "category": "jeopolitik",
-    "date": "2026-10-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Man charged with attack on Australian MP as suspect's father says she is family friend",
-      "en": "Man charged with attack on Australian MP as suspect's father says she is family friend"
-    },
-    "summary": {
-      "tr": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
-      "en": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-20 18:28",
-        "desc": "Uluslararası ajanslar doğruladı: Man charged with attack on Australian MP as suspect's father says she is family friend"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-20-764e133c",
-    "category": "jeopolitik",
-    "date": "2026-10-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "en": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder"
-    },
-    "summary": {
-      "tr": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
-      "en": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-20 18:28",
-        "desc": "Uluslararası ajanslar doğruladı: Marseille braces for more unrest after protests give way to 'apocalyptic' disorder"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
     "theories": [
       {
         "claim": "Olayın Görünmeyen Stratejik Nedenleri",

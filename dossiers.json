@@ -1,5 +1,155 @@
 [
   {
+    "id": "event-2026-11-05-cba2f78d",
+    "category": "bilim",
+    "date": "2026-11-05",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Investigation into 'major fish kill' after pollution incident",
+      "en": "Investigation into 'major fish kill' after pollution incident"
+    },
+    "summary": {
+      "tr": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+      "en": "The pollution caused the death of brown and migratory sea trout in the Inler river."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-05 18:45",
+        "desc": "Uluslararası ajanslar doğruladı: Investigation into 'major fish kill' after pollution incident"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-05-e35fddb8",
+    "category": "jeopolitik",
+    "date": "2026-11-05",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "en": "Was an Italian chef really fired over refusal to put pineapple on pizza?"
+    },
+    "summary": {
+      "tr": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "en": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\"."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-05 18:45",
+        "desc": "Uluslararası ajanslar doğruladı: Was an Italian chef really fired over refusal to put pineapple on pizza?"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-05-d2f9358e",
+    "category": "jeopolitik",
+    "date": "2026-11-05",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Paraguay President Santiago Peña resigns after bank collapse",
+      "en": "Paraguay President Santiago Peña resigns after bank collapse"
+    },
+    "summary": {
+      "tr": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "en": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-05 18:45",
+        "desc": "Uluslararası ajanslar doğruladı: Paraguay President Santiago Peña resigns after bank collapse"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-05-b9d80696",
+    "category": "jeopolitik",
+    "date": "2026-11-05",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "French protests see numbers surge as unions join strikes over high cost of living",
+      "en": "French protests see numbers surge as unions join strikes over high cost of living"
+    },
+    "summary": {
+      "tr": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "en": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-05 18:45",
+        "desc": "Uluslararası ajanslar doğruladı: French protests see numbers surge as unions join strikes over high cost of living"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-05-0189657d",
+    "category": "jeopolitik",
+    "date": "2026-11-05",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "en": "Hoax bomb threats target European airlines and airports for second time in a week"
+    },
+    "summary": {
+      "tr": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "en": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-05 18:45",
+        "desc": "Uluslararası ajanslar doğruladı: Hoax bomb threats target European airlines and airports for second time in a week"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
     "id": "event-2026-11-05-21045b51",
     "category": "bilim",
     "date": "2026-11-05",
@@ -1342,156 +1492,6 @@
     ],
     "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
     "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-31-ee6af818",
-    "category": "bilim",
-    "date": "2026-10-31",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Bute House protested by environmental campaigners",
-      "en": "Bute House protested by environmental campaigners"
-    },
-    "summary": {
-      "tr": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
-      "en": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-31 18:31",
-        "desc": "Uluslararası ajanslar doğruladı: Bute House protested by environmental campaigners"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-31-ab758071",
-    "category": "jeopolitik",
-    "date": "2026-10-31",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Ethiopian PM puts ministers through military training",
-      "en": "Ethiopian PM puts ministers through military training"
-    },
-    "summary": {
-      "tr": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "en": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-31 18:31",
-        "desc": "Uluslararası ajanslar doğruladı: Ethiopian PM puts ministers through military training"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-31-56c51663",
-    "category": "jeopolitik",
-    "date": "2026-10-31",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "en": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak"
-    },
-    "summary": {
-      "tr": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "en": "Government data shows that more than 10,000 people have contracted the rare virus."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-31 18:31",
-        "desc": "Uluslararası ajanslar doğruladı: More than 5,000 die from Ebola in DR Congo's deadliest outbreak"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-31-db2cd644",
-    "category": "jeopolitik",
-    "date": "2026-10-31",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "en": "Crypto firm Binance covers 90% of losses after $6.3bn hack"
-    },
-    "summary": {
-      "tr": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "en": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-31 18:31",
-        "desc": "Uluslararası ajanslar doğruladı: Crypto firm Binance covers 90% of losses after $6.3bn hack"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-10-31-339ae7ef",
-    "category": "jeopolitik",
-    "date": "2026-10-31",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "en": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city"
-    },
-    "summary": {
-      "tr": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "en": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
-    },
-    "timeline": [
-      {
-        "date": "2026-10-31 18:31",
-        "desc": "Uluslararası ajanslar doğruladı: Ukrainian evacuees reunite with family after years trapped in Russia-occupied city"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
     "theories": [
       {
         "claim": "Olayın Görünmeyen Stratejik Nedenleri",

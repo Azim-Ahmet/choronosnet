@@ -1,5 +1,155 @@
 [
   {
+    "id": "event-2026-11-13-c5de269d",
+    "category": "bilim",
+    "date": "2026-11-13",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "What could El Niño mean for winter weather in the US and Canada?",
+      "en": "What could El Niño mean for winter weather in the US and Canada?"
+    },
+    "summary": {
+      "tr": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
+      "en": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-13 23:20",
+        "desc": "Uluslararası ajanslar doğruladı: What could El Niño mean for winter weather in the US and Canada?"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-13-77ee518e",
+    "category": "jeopolitik",
+    "date": "2026-11-13",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "en": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine"
+    },
+    "summary": {
+      "tr": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "en": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-13 23:20",
+        "desc": "Uluslararası ajanslar doğruladı: Rosenberg: Uncompromising Putin ups demands for peace with Ukraine"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-13-6d3bc308",
+    "category": "jeopolitik",
+    "date": "2026-11-13",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "SpaceX to attempt double catch of huge Starship rocket",
+      "en": "SpaceX to attempt double catch of huge Starship rocket"
+    },
+    "summary": {
+      "tr": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+      "en": "Elon Musk’s company will try to grab both parts of the rocket for the first time."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-13 23:20",
+        "desc": "Uluslararası ajanslar doğruladı: SpaceX to attempt double catch of huge Starship rocket"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-13-0130b6cf",
+    "category": "jeopolitik",
+    "date": "2026-11-13",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "en": "Why is Microsoft's outage lasting so long and will emails be lost?"
+    },
+    "summary": {
+      "tr": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "en": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-13 23:20",
+        "desc": "Uluslararası ajanslar doğruladı: Why is Microsoft's outage lasting so long and will emails be lost?"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-13-b8b9fbab",
+    "category": "jeopolitik",
+    "date": "2026-11-13",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "en": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption"
+    },
+    "summary": {
+      "tr": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "en": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-13 23:20",
+        "desc": "Uluslararası ajanslar doğruladı: Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
     "id": "event-2026-11-13-f1c48421",
     "category": "jeopolitik",
     "date": "2026-11-13",
@@ -1342,156 +1492,6 @@
     ],
     "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
     "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-08-a840cec9",
-    "category": "jeopolitik",
-    "date": "2026-11-08",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Erdoğan'ın Azerbaycan ziyaretinde Aliyev ile 'birlik' mesajı verildi",
-      "en": "Erdoğan'ın Azerbaycan ziyaretinde Aliyev ile 'birlik' mesajı verildi"
-    },
-    "summary": {
-      "tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın başkenti Bakü'ye bir ziyarette bulunarak Azerbaycan Cumhurbaşkanı İlham Aliyev ile bir araya geldi.\nZiyaret, Eylül'de basına yansıyan ve Ankara-Bakü ilişkilerinde gerilim başlığı haline gelen tartışmaların ardından liderler arasındaki ilk temas oldu.",
-      "en": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın başkenti Bakü'ye bir ziyarette bulunarak Azerbaycan Cumhurbaşkanı İlham Aliyev ile bir araya geldi.\nZiyaret, Eylül'de basına yansıyan ve Ankara-Bakü ilişkilerinde gerilim başlığı haline gelen tartışmaların ardından liderler arasındaki ilk temas oldu."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-08 21:47",
-        "desc": "Uluslararası ajanslar doğruladı: Erdoğan'ın Azerbaycan ziyaretinde Aliyev ile 'birlik' mesajı verildi"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.com/turkce/articles/cw1m4dj30e05o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-08-46e7b4bf",
-    "category": "jeopolitik",
-    "date": "2026-11-08",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Iran executes three men for 'armed unrest' after January protests",
-      "en": "Iran executes three men for 'armed unrest' after January protests"
-    },
-    "summary": {
-      "tr": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "en": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-08 21:47",
-        "desc": "Uluslararası ajanslar doğruladı: Iran executes three men for 'armed unrest' after January protests"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-08-7f9a7cf1",
-    "category": "jeopolitik",
-    "date": "2026-11-08",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Homes and temples glow across India to mark Diwali",
-      "en": "Homes and temples glow across India to mark Diwali"
-    },
-    "summary": {
-      "tr": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-      "en": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-08 21:47",
-        "desc": "Uluslararası ajanslar doğruladı: Homes and temples glow across India to mark Diwali"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-08-4eb0b159",
-    "category": "jeopolitik",
-    "date": "2026-11-08",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "en": "Seven dead and more than 100 injured after trains collide in Egypt"
-    },
-    "summary": {
-      "tr": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "en": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-08 21:47",
-        "desc": "Uluslararası ajanslar doğruladı: Seven dead and more than 100 injured after trains collide in Egypt"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-08-20337900",
-    "category": "jeopolitik",
-    "date": "2026-11-08",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "en": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says"
-    },
-    "summary": {
-      "tr": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "en": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-08 21:47",
-        "desc": "Uluslararası ajanslar doğruladı: Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
     "theories": [
       {
         "claim": "Olayın Görünmeyen Stratejik Nedenleri",

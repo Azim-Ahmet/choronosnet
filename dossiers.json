@@ -1,5 +1,155 @@
 [
   {
+    "id": "event-2026-11-20-ace7113b",
+    "category": "bilim",
+    "date": "2026-11-20",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Birds killed in blaze at one of the largest foie gras farms in the US",
+      "en": "Birds killed in blaze at one of the largest foie gras farms in the US"
+    },
+    "summary": {
+      "tr": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+      "en": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-20 23:45",
+        "desc": "Uluslararası ajanslar doğruladı: Birds killed in blaze at one of the largest foie gras farms in the US"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-20-ed245b93",
+    "category": "jeopolitik",
+    "date": "2026-11-20",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "en": "In a year of AI solving maths problems, Anthropic may have just solved the biggest"
+    },
+    "summary": {
+      "tr": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "en": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-20 23:45",
+        "desc": "Uluslararası ajanslar doğruladı: In a year of AI solving maths problems, Anthropic may have just solved the biggest"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-20-e80a120d",
+    "category": "jeopolitik",
+    "date": "2026-11-20",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "French police officers sentenced for beating of music producer Michel Zecler",
+      "en": "French police officers sentenced for beating of music producer Michel Zecler"
+    },
+    "summary": {
+      "tr": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "en": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-20 23:45",
+        "desc": "Uluslararası ajanslar doğruladı: French police officers sentenced for beating of music producer Michel Zecler"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-20-c53dc75b",
+    "category": "jeopolitik",
+    "date": "2026-11-20",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "en": "UK to explore even closer ties with EU after agreeing deal, says Burnham"
+    },
+    "summary": {
+      "tr": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "en": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-20 23:45",
+        "desc": "Uluslararası ajanslar doğruladı: UK to explore even closer ties with EU after agreeing deal, says Burnham"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-20-d0162c42",
+    "category": "jeopolitik",
+    "date": "2026-11-20",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "en": "Tech stock sell-off drags markets down as Anthropic shares slide"
+    },
+    "summary": {
+      "tr": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "en": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-20 23:45",
+        "desc": "Uluslararası ajanslar doğruladı: Tech stock sell-off drags markets down as Anthropic shares slide"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
     "id": "event-2026-11-20-1985464e",
     "category": "jeopolitik",
     "date": "2026-11-20",
@@ -1342,156 +1492,6 @@
     ],
     "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
     "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-15-dcab76ed",
-    "category": "jeopolitik",
-    "date": "2026-11-15",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Czechs rally against plan to switch funding of public media",
-      "en": "Czechs rally against plan to switch funding of public media"
-    },
-    "summary": {
-      "tr": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "en": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-15 22:34",
-        "desc": "Uluslararası ajanslar doğruladı: Czechs rally against plan to switch funding of public media"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-15-093be1c4",
-    "category": "jeopolitik",
-    "date": "2026-11-15",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "en": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says"
-    },
-    "summary": {
-      "tr": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "en": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-15 22:34",
-        "desc": "Uluslararası ajanslar doğruladı: Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-15-f7b4f7fb",
-    "category": "jeopolitik",
-    "date": "2026-11-15",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "en": "Pope Leo rides in helicopter cockpit during Peru trip"
-    },
-    "summary": {
-      "tr": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "en": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-15 22:34",
-        "desc": "Uluslararası ajanslar doğruladı: Pope Leo rides in helicopter cockpit during Peru trip"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-15-978c41e5",
-    "category": "jeopolitik",
-    "date": "2026-11-15",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "en": "South Korea's top scorer in tax accountancy exam admits cheating"
-    },
-    "summary": {
-      "tr": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "en": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-15 22:34",
-        "desc": "Uluslararası ajanslar doğruladı: South Korea's top scorer in tax accountancy exam admits cheating"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-15-28a9bc98",
-    "category": "jeopolitik",
-    "date": "2026-11-15",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "en": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'"
-    },
-    "summary": {
-      "tr": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "en": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-15 22:34",
-        "desc": "Uluslararası ajanslar doğruladı: Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
     "theories": [
       {
         "claim": "Olayın Görünmeyen Stratejik Nedenleri",

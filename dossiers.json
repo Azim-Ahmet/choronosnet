@@ -1,5 +1,155 @@
 [
   {
+    "id": "event-2026-11-22-41bf4f8f",
+    "category": "bilim",
+    "date": "2026-11-22",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+      "en": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage"
+    },
+    "summary": {
+      "tr": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+      "en": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-22 14:14",
+        "desc": "Uluslararası ajanslar doğruladı: Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-22-5b98bfc4",
+    "category": "jeopolitik",
+    "date": "2026-11-22",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "en": "Italian jeweller and businessman Paolo Bulgari dies aged 89"
+    },
+    "summary": {
+      "tr": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "en": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-22 14:14",
+        "desc": "Uluslararası ajanslar doğruladı: Italian jeweller and businessman Paolo Bulgari dies aged 89"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-22-f3c6efc4",
+    "category": "jeopolitik",
+    "date": "2026-11-22",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Three killed and dozens missing after fire at Indonesian factory",
+      "en": "Three killed and dozens missing after fire at Indonesian factory"
+    },
+    "summary": {
+      "tr": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "en": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-22 14:14",
+        "desc": "Uluslararası ajanslar doğruladı: Three killed and dozens missing after fire at Indonesian factory"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-22-f29c2427",
+    "category": "jeopolitik",
+    "date": "2026-11-22",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "en": "Russia-bound ship still on fire after attack in Gulf of Finland"
+    },
+    "summary": {
+      "tr": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "en": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-22 14:14",
+        "desc": "Uluslararası ajanslar doğruladı: Russia-bound ship still on fire after attack in Gulf of Finland"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-22-7503117e",
+    "category": "jeopolitik",
+    "date": "2026-11-22",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "South Korea education minister resigns over exam cheating scandal",
+      "en": "South Korea education minister resigns over exam cheating scandal"
+    },
+    "summary": {
+      "tr": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "en": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-22 14:14",
+        "desc": "Uluslararası ajanslar doğruladı: South Korea education minister resigns over exam cheating scandal"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
     "id": "event-2026-11-21-a6d246dd",
     "category": "jeopolitik",
     "date": "2026-11-21",
@@ -1338,156 +1488,6 @@
       {
         "date": "2026-11-18 00:41",
         "desc": "Uluslararası ajanslar doğruladı: Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-17-8e14a86e",
-    "category": "jeopolitik",
-    "date": "2026-11-17",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "en": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed"
-    },
-    "summary": {
-      "tr": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-      "en": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-17 15:38",
-        "desc": "Uluslararası ajanslar doğruladı: Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-17-68f77380",
-    "category": "jeopolitik",
-    "date": "2026-11-17",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "en": "Nvidia partner Megaspeed being investigated by US government over chip exports"
-    },
-    "summary": {
-      "tr": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "en": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-17 15:38",
-        "desc": "Uluslararası ajanslar doğruladı: Nvidia partner Megaspeed being investigated by US government over chip exports"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-17-9161670e",
-    "category": "jeopolitik",
-    "date": "2026-11-17",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says"
-    },
-    "summary": {
-      "tr": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "en": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-17 15:38",
-        "desc": "Uluslararası ajanslar doğruladı: Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-17-5e489866",
-    "category": "jeopolitik",
-    "date": "2026-11-17",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "en": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72"
-    },
-    "summary": {
-      "tr": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "en": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-17 15:38",
-        "desc": "Uluslararası ajanslar doğruladı: Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-17-98bc4bb5",
-    "category": "jeopolitik",
-    "date": "2026-11-17",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "en": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine"
-    },
-    "summary": {
-      "tr": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "en": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-17 15:38",
-        "desc": "Uluslararası ajanslar doğruladı: Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine"
       }
     ],
     "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",

@@ -1,5 +1,155 @@
 [
   {
+    "id": "event-2026-11-25-1c88db5e",
+    "category": "bilim",
+    "date": "2026-11-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "The rising cost of putting food on the table in India",
+      "en": "The rising cost of putting food on the table in India"
+    },
+    "summary": {
+      "tr": "India's food inflation is broadening, squeezing household budgets.",
+      "en": "India's food inflation is broadening, squeezing household budgets."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-25 01:58",
+        "desc": "Uluslararası ajanslar doğruladı: The rising cost of putting food on the table in India"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-25-144ea3d1",
+    "category": "bilim",
+    "date": "2026-11-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Will there be a White Christmas this year?",
+      "en": "Will there be a White Christmas this year?"
+    },
+    "summary": {
+      "tr": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+      "en": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?"
+    },
+    "timeline": [
+      {
+        "date": "2026-11-25 01:58",
+        "desc": "Uluslararası ajanslar doğruladı: Will there be a White Christmas this year?"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-25-bd8155b8",
+    "category": "jeopolitik",
+    "date": "2026-11-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "en": "Huawei found guilty of stealing trade secrets but acquitted of racketeering"
+    },
+    "summary": {
+      "tr": "The verdict follows a months-long trial in New York.",
+      "en": "The verdict follows a months-long trial in New York."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-25 01:58",
+        "desc": "Uluslararası ajanslar doğruladı: Huawei found guilty of stealing trade secrets but acquitted of racketeering"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-25-1194fdd8",
+    "category": "jeopolitik",
+    "date": "2026-11-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "en": "French ex-President Sarkozy and wife Carla Bruni to face trial"
+    },
+    "summary": {
+      "tr": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "en": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-25 01:58",
+        "desc": "Uluslararası ajanslar doğruladı: French ex-President Sarkozy and wife Carla Bruni to face trial"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-25-5f2fe769",
+    "category": "jeopolitik",
+    "date": "2026-11-25",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "US attorney general dodges questions about Nvidia investigation",
+      "en": "US attorney general dodges questions about Nvidia investigation"
+    },
+    "summary": {
+      "tr": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "en": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-25 01:58",
+        "desc": "Uluslararası ajanslar doğruladı: US attorney general dodges questions about Nvidia investigation"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
     "id": "event-2026-11-24-c266dca0",
     "category": "jeopolitik",
     "date": "2026-11-24",
@@ -1342,156 +1492,6 @@
     ],
     "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
     "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-20-46c54f1b",
-    "category": "jeopolitik",
-    "date": "2026-11-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "en": "Trump, Putin and Xi release 'peace declaration' after historic meeting"
-    },
-    "summary": {
-      "tr": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-      "en": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-20 00:22",
-        "desc": "Uluslararası ajanslar doğruladı: Trump, Putin and Xi release 'peace declaration' after historic meeting"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-20-b5cf392a",
-    "category": "jeopolitik",
-    "date": "2026-11-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "en": "Europe ready for talks with Russia on ending war in Ukraine, leaders say"
-    },
-    "summary": {
-      "tr": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "en": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-20 00:22",
-        "desc": "Uluslararası ajanslar doğruladı: Europe ready for talks with Russia on ending war in Ukraine, leaders say"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-20-a321807b",
-    "category": "jeopolitik",
-    "date": "2026-11-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "en": "Myanmar committed genocide against Rohingya minority, top UN court rules"
-    },
-    "summary": {
-      "tr": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-      "en": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-20 00:22",
-        "desc": "Uluslararası ajanslar doğruladı: Myanmar committed genocide against Rohingya minority, top UN court rules"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-20-c547b101",
-    "category": "jeopolitik",
-    "date": "2026-11-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-      "en": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC"
-    },
-    "summary": {
-      "tr": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-      "en": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-20 00:22",
-        "desc": "Uluslararası ajanslar doğruladı: 'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-20-0e17d184",
-    "category": "jeopolitik",
-    "date": "2026-11-20",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "en": "Anthropic becomes one of world's most valuable public companies in stock market debut"
-    },
-    "summary": {
-      "tr": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "en": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-20 00:22",
-        "desc": "Uluslararası ajanslar doğruladı: Anthropic becomes one of world's most valuable public companies in stock market debut"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
     "theories": [
       {
         "claim": "Olayın Görünmeyen Stratejik Nedenleri",

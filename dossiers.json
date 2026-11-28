@@ -1,5 +1,155 @@
 [
   {
+    "id": "event-2026-11-28-dea585d1",
+    "category": "bilim",
+    "date": "2026-11-28",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "New satellite data shows how fast some African cities are sinking",
+      "en": "New satellite data shows how fast some African cities are sinking"
+    },
+    "summary": {
+      "tr": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+      "en": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-28 15:11",
+        "desc": "Uluslararası ajanslar doğruladı: New satellite data shows how fast some African cities are sinking"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-28-f8778631",
+    "category": "jeopolitik",
+    "date": "2026-11-28",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "en": "OpenAI counter-sues Apple over alleged theft of trade secrets"
+    },
+    "summary": {
+      "tr": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "en": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-28 15:11",
+        "desc": "Uluslararası ajanslar doğruladı: OpenAI counter-sues Apple over alleged theft of trade secrets"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-28-186ce023",
+    "category": "jeopolitik",
+    "date": "2026-11-28",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "en": "Afghanistan explosion kills 10 students and injures more than 100, official says"
+    },
+    "summary": {
+      "tr": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "en": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-28 15:11",
+        "desc": "Uluslararası ajanslar doğruladı: Afghanistan explosion kills 10 students and injures more than 100, official says"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-28-bd21b1a0",
+    "category": "jeopolitik",
+    "date": "2026-11-28",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "en": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says"
+    },
+    "summary": {
+      "tr": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "en": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-28 15:11",
+        "desc": "Uluslararası ajanslar doğruladı: Two staff killed in Israeli strike on Gaza medical clinic, MSF says"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
+    "id": "event-2026-11-28-6ab3b40e",
+    "category": "jeopolitik",
+    "date": "2026-11-28",
+    "views": 1200,
+    "popularity": 89,
+    "factStatus": "verified",
+    "title": {
+      "tr": "Argentina's bid to stop Falklands oil drilling rejected",
+      "en": "Argentina's bid to stop Falklands oil drilling rejected"
+    },
+    "summary": {
+      "tr": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "en": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-28 15:11",
+        "desc": "Uluslararası ajanslar doğruladı: Argentina's bid to stop Falklands oil drilling rejected"
+      }
+    ],
+    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
+    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
+    "theories": [
+      {
+        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
+        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
+      }
+    ]
+  },
+  {
     "id": "event-2026-11-28-104a3f49",
     "category": "bilim",
     "date": "2026-11-28",
@@ -1342,156 +1492,6 @@
     ],
     "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
     "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-23-b5ad2847",
-    "category": "jeopolitik",
-    "date": "2026-11-23",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
-      "en": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy"
-    },
-    "summary": {
-      "tr": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
-      "en": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-23 17:36",
-        "desc": "Uluslararası ajanslar doğruladı: Search and rescue teams race against time to find survivors after Nigeria boat tragedy"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-23-ac401bb3",
-    "category": "jeopolitik",
-    "date": "2026-11-23",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Flights cancelled in Belgium due to cost-of-living strike",
-      "en": "Flights cancelled in Belgium due to cost-of-living strike"
-    },
-    "summary": {
-      "tr": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "en": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-23 17:36",
-        "desc": "Uluslararası ajanslar doğruladı: Flights cancelled in Belgium due to cost-of-living strike"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-23-f3682ab0",
-    "category": "jeopolitik",
-    "date": "2026-11-23",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "en": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says"
-    },
-    "summary": {
-      "tr": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "en": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-23 17:36",
-        "desc": "Uluslararası ajanslar doğruladı: Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-23-e220ae25",
-    "category": "jeopolitik",
-    "date": "2026-11-23",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "en": "Longest-ever UN climate talks end with no deal as deep divisions exposed"
-    },
-    "summary": {
-      "tr": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-      "en": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-23 17:36",
-        "desc": "Uluslararası ajanslar doğruladı: Longest-ever UN climate talks end with no deal as deep divisions exposed"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
-    "theories": [
-      {
-        "claim": "Olayın Görünmeyen Stratejik Nedenleri",
-        "verdict": "Resmi incelemeler ve teyit süreçleri devam etmektedir."
-      }
-    ]
-  },
-  {
-    "id": "event-2026-11-23-aadb58a5",
-    "category": "jeopolitik",
-    "date": "2026-11-23",
-    "views": 1200,
-    "popularity": 89,
-    "factStatus": "verified",
-    "title": {
-      "tr": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "en": "Russian warship hit by Ukrainian drones in Libya, Zelensky says"
-    },
-    "summary": {
-      "tr": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "en": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
-    },
-    "timeline": [
-      {
-        "date": "2026-11-23 17:36",
-        "desc": "Uluslararası ajanslar doğruladı: Russian warship hit by Ukrainian drones in Libya, Zelensky says"
-      }
-    ],
-    "background": "Gelişme küresel stratejik dengeler çerçevesinde uluslararası gözlemciler tarafından yakından izlenmektedir.",
-    "related": "• İlgili Haber Kaynağı: https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss\n• Uluslararası Diplomatik Açıklamalar",
     "theories": [
       {
         "claim": "Olayın Görünmeyen Stratejik Nedenleri",
